@@ -21,3 +21,4 @@ It provides a clean, responsive, and card-style UI to display album details.
 - **Deployment:** Vercel / Netlify (optional)  
 
 ---# AlbumFinder
+# AlbumFinder
