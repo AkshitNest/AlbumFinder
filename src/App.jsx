@@ -9,8 +9,8 @@ import {
 } from "react-bootstrap";
 import { useState, useEffect } from "react";
 
-const clientId = import.meta.env.VITE_CLIENT_ID;
-const clientSecret = import.meta.env.VITE_CLIENT_SECRET;
+const clientId = import.meta.env._CLIENT_ID;
+const clientSecret = import.meta.env.CLIENT_SECRET;
 
 function App() {
   const [searchInput, setSearchInput] = useState("");
